@@ -41,7 +41,7 @@
                 },
                 {
                     "name": "backoffice",
-                    "contextPath": "/"
+                    "contextPath": "/backoffice"
                 }
             ]
         },
