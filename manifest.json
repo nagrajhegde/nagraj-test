@@ -59,7 +59,7 @@
                 },
                 {
                     "name": "yacceleratorstorefront",
-                    "contextPath": "/"
+                    "contextPath": "/yacceleratorstorefront"
                 }
             ]
         },
@@ -77,7 +77,7 @@
                 },
                 {
                     "name": "yacceleratorstorefront",
-                    "contextPath": "/"
+                    "contextPath": "/yacceleratorstorefront"
                 }
             ]
         }
