@@ -10,7 +10,8 @@
        "yacceleratorfulfilmentprocess",
        "solrfacetsearchbackoffice",
        "commerceservicesbackoffice",
-      "modeltacceleratorservices"
+      "modeltacceleratorservices",
+      "acceleratorwebservicesaddon"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
    "storeFrontWebRoot": "/yacceleratorstorefront",
