@@ -53,27 +53,27 @@
             "properties": [
                {
                     "key":"website.electronics.http",
-                    "value":"http://electronics.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"http://electronics.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" 
                 },
                 {
                     "key":"website.electronics.https",
-                    "value":"https://electronics.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"https://electronics.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" 
                 },
                 {
                     "key":"website.apparel-uk.http",
-                    "value":"http://apparel-uk.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"http://apparel-uk.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud"
                 },
                 {
                     "key":"website.apparel-uk.https",
-                    "value":"https://apparel-uk.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"https://apparel-uk.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" 
                 },
                 {
                     "key":"website.apparel-de.http",
-                    "value":"http://apparel-de.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"http://apparel-de.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" 
                 },
                 {
                     "key":"website.apparel-de.https",
-                    "value":"https://apparel-de.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"https://apparel-de.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" 
                 }],
             "webapps": [
                 {
