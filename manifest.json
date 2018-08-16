@@ -6,6 +6,7 @@
        "backoffice",
        "platformbackoffice",
        "electronicsstore",
+       "apparelstore",
        "basecommercebackoffice",       
        "yacceleratorfulfilmentprocess",
        "solrfacetsearchbackoffice",
@@ -49,7 +50,31 @@
         },
         {
             "name": "accstorefront",
-            "properties": [],
+            "properties": [
+               {
+                    "key":"website.electronics.http",
+                    "value":"http://electronics.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                },
+                {
+                    "key":"website.electronics.https",
+                    "value":"https://electronics.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                },
+                {
+                    "key":"website.apparel-uk.http",
+                    "value":"http://apparel-uk.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                },
+                {
+                    "key":"website.apparel-uk.https",
+                    "value":"https://apparel-uk.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                },
+                {
+                    "key":"website.apparel-de.http",
+                    "value":"http://apparel-de.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                },
+                {
+                    "key":"website.apparel-de.https",
+                    "value":"https://apparel-de.nagraj1705-nagraj1705-d2-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                }],
             "webapps": [
                 {
                     "name": "hac",
