@@ -12,7 +12,8 @@
        "solrfacetsearchbackoffice",
        "commerceservicesbackoffice",
       "modeltacceleratorservices",
-      "acceleratorwebservicesaddon"
+      "acceleratorwebservicesaddon",
+      "mycustomextension"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
    "storeFrontWebRoot": "/yacceleratorstorefront",
