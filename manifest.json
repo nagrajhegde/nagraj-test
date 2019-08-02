@@ -13,6 +13,8 @@
        "commerceservicesbackoffice",
       "modeltacceleratorservices",
       "acceleratorwebservicesaddon",
+      "ypsb2bassortment",
+       "ypsb2bassortmentbackoffice",
       "mycustomextension"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
