@@ -64,6 +64,10 @@
        "sapcustomerb2c"
      
    ],
+   "useConfig": {
+        "solr": {
+            "location": "solr-custom"
+        },
    "storeFrontExtension": "yacceleratorstorefront",
    "storeFrontWebRoot": "/yacceleratorstorefront",
    "properties": [
